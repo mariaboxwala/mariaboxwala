@@ -40,14 +40,6 @@ Engineered a novel chained multilingual bridge using **FastText**, **Lang2Vec**,
 
 ---
 
-## Leadership & Teaching
-
-- **Tutor** in CS, EE, and mathematics with 200+ hours logged
-- **Teaching Assistant** for computer networks and architecture
-- Led programming workshops for young students and mentored freshman as a **Peer Leader**
-
----
-
 ## Currently Seeking
 
 I'm looking for **ML engineering** or **applied research** roles focused on:
