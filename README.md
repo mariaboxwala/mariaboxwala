@@ -2,13 +2,13 @@
 
 **Magna Cum Laude in Computer Engineering | ML Engineer | NLP, Remote Sensing, CV**
 
-I’m a freshly graduated machine learning enthusiast with a curiosity-fueled drive to build models that make a real-world impact. My work spans efficient natural language processing, computer vision, and ecological remote sensing, with a special focus on building **low-latency**, **resource-efficient** ML systems.
+I’m a freshly graduated machine learning enthusiast with a curiosity-fueled drive to build models that make a real-world impact. My work spans efficient natural language processing, computer vision, and remote sensing, with a special focus on building **low-latency**, **resource-efficient** ML systems.
 
 ---
 
 ## About Me
 
-At the **American University of Sharjah**, I graduated **Magna Cum Laude** with a 3.76 GPA and led top honors societies like **IEEE-HKN** (President) and **Tau Beta Pi** (Vice President). My academic and personal projects reflect both breadth and depth—ranging from **Arabic poetry generation with LLMs** to **satellite-based biodiversity assessment**.
+At the **American University of Sharjah**, I graduated **Magna Cum Laude** and led top honors societies like **IEEE-HKN** (President) and **Tau Beta Pi** (Vice President). My academic and personal projects reflect both breadth and depth—ranging from **Arabic poetry generation with LLMs** to **satellite-based biodiversity assessment**.
 
 I'm deeply invested in:
 -  **Multilingual NLP** for social good
